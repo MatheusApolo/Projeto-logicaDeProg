@@ -30,7 +30,6 @@ if (strcmp(resposta, "teclado") == 0 || strcmp(resposta, "Teclado") == 0) {
 printf("\nCorreto! O segundo simbolo do portal acendeu.\n");
 return 1;
 } else {
-Templo dos Enigmas em C - Guia de commits no GitHub Página 7
 printf("\nErrado! O segundo simbolo continuou apagado.\n");
 return 0;
 }
